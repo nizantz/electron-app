@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: fullstack-tree-1.0.0-mac.zip
+    sha512: HuiBzzcvYh0sQXk+oJ2zQgdb7rMQk7eTeyOULdfvYvYLb9Gw7YM+KvXfrmfHazA2GhGP/cs97PG9RZoKfvxEQA==
+  - url: fullstack-tree-1.0.0.dmg
+    sha512: zloYSDtUSD4mXrlttm8+gR4FCGO0fDJw01ZMMrrIHP9fpeIzkjxZwoIGe1XWpymHVPrO67WWI76+qgobjkHvLA==
+    size: 50994645
+path: fullstack-tree-1.0.0-mac.zip
+sha512: HuiBzzcvYh0sQXk+oJ2zQgdb7rMQk7eTeyOULdfvYvYLb9Gw7YM+KvXfrmfHazA2GhGP/cs97PG9RZoKfvxEQA==
+releaseDate: '2018-09-01T03:39:25.435Z'
