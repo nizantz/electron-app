@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>FullStack</title>
+  </head>
+  <style>
+    body{
+      /* background: #000;
+      color: #fff; */
+      font-family: Helvetica, sans-serif
+    }
+    .node {
+		cursor: pointer;
+	}
+
+	.node circle {
+	  fill: red;
+	  stroke: steelblue;
+	  stroke-width: 3px;
+	}
+
+	.node text {
+	  font: 12px sans-serif;
+	}
+
+	.link {
+	  fill: none;
+	  stroke: #ccc;
+	  stroke-width: 2px;
+	}
+  </style>
+  <body>
+    <h1>Tree of Knowledge</h1>
+    <!-- All of the Node.js APIs are available in this renderer process. -->
+    We are using Node.js <script>document.write(process.versions.node)</script>,
+    Chromium <script>document.write(process.versions.chrome)</script>,
+    and Electron <script>document.write(process.versions.electron)</script>.
+    <hr>
+    <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
+    <script>
+      // You can also require other files to run in this process      
+      require('./renderer.js')
+    </script>
+  </body>
+</html>
